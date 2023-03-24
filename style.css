@@ -1,0 +1,118 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    /* background: linear-gradient(109.5deg, rgb(13, 11, 136) 9.4%, rgb(86, 255, 248) 78.4%); */
+    align-content: center;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    background: url("https://th.bing.com/th/id/R.6e435b853d0251f6d7d3da6415e459c7?rik=8BFlVeKW0bCc5g&riu=http%3a%2f%2fpicm.bbzhi.com%2ffengjingbizhi%2fxiarihaitan%2fxiarihaitan_363493_m.jpg&ehk=avBPDkrLB%2bUKwpEBsYZiSn5UKjt6%2ftmj1exGFbg2AVE%3d&risl=&pid=ImgRaw&r=0")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+main{
+    height: 750px;
+    width: 400px;
+    background-color: white;
+    margin-left: 440px;
+    margin-top: 100px;
+    border-radius: 14px;
+    margin-bottom: 200px;
+}
+h2{
+    padding-top: 80px;
+    font-size: 35px;
+    padding-bottom: 42px;
+    padding-bottom: 60px;
+
+}
+.userdetails{
+    text-align: left;
+    padding-left: 40px;
+    color: #bcbcbc;
+}
+label{
+    color: #005a9c;
+    margin-bottom: 15px;
+}
+.input{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border-bottom: solid #bcbcbc;
+    margin-right: 50px;
+}
+p{
+    padding-top: 15px;
+    text-align: right;
+    padding-right: 45px;
+    color: #005a9c;
+}
+input{
+    border: none;
+    width: 250px;
+    outline: none;
+    margin-bottom: 20px;
+    padding-top: 5px;
+}
+button{
+    width: 300px;
+    padding: 8px;
+    font-size: 15px;
+    border: none;
+    border-radius: 15px;
+    background: linear-gradient(109.5deg, rgb(13, 11, 136) 9.4%, rgb(86, 255, 248) 78.4%);
+    margin-top: 25px;
+    margin-bottom: 45px;
+    color: white;
+}
+.socialicons{
+    margin-top: 25px;
+    word-spacing: 20px;
+}
+.createaccount{
+    padding-top: 200px;
+}
+#newaccount{
+    width: 50px;
+    background-color: white;
+    color: #005a9c;
+}
+i{
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.fa-facebook {
+    width: 30px;
+    height: 30px;
+    background-color: #005a9c;
+    padding-top: 7px;
+    padding-left: 7px;
+    border-radius: 40px;
+    color: #fff;
+}
+.fa-twitter{
+    width: 30px;
+    height: 30px;
+    background-color: #00aeef;
+    padding-top: 7px;
+    padding-left: 7px;
+    border-radius: 40px;
+    color: #fff;
+}
+.fa-google{
+    width: 30px;
+    height: 30px;
+    background-color: #e04d38;
+    padding-top: 7px;
+    padding-left: 9px;
+    border-radius: 40px;
+    color: #fff;
+}
+
