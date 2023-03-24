@@ -33,7 +33,7 @@ h2{
     padding-bottom: 60px;
     color:#4368e4  ;
 }
-.userdetails{
+.user-details{
     text-align: left;
     padding-left: 40px;
     color: #bcbcbc;
@@ -72,7 +72,7 @@ button{
     margin-bottom: 45px;
     color: white;
 }
-.socialicons{
+.social-icons{
     margin-top: 25px;
     word-spacing: 20px;
     padding: 20px;
